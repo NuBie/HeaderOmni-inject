@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<daylight_headers>
+    <hour_header hour="6" image="gz1" />
+    <hour_header hour="10" image="gz2" />
+    <hour_header hour="15" image="gz5" />
+	<hour_header hour="17" image="gz6" />
+	<hour_header hour="18" image="gz4" />
+	<hour_header hour="22" image="gz3" />
+</daylight_headers>

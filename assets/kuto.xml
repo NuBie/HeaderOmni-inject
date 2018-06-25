@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<daylight_headers>
+	<meta-data creator="Guzzo" />
+	<hour_header hour="6" image="kuto_sunrise" />
+    <hour_header hour="7" image="kuto_isuk" />
+    <hour_header hour="11" image="kuto_awan" />
+    <hour_header hour="17" image="kuto_sunset" />
+	<hour_header hour="18" image="kuto_bengi" />
+	<hour_header hour="23" image="kuto_wengi" />
+</daylight_headers>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="org.omnirom.omnistyle" platformBuildVersionCode="23" platformBuildVersionName="6.0.1">
+    <application android:allowBackup="false" android:label="OmniStyle">
+        <activity android:label="LockClock (color)" android:name=".weather_color">
+            <intent-filter>
+                <action android:name="org.omnirom.WeatherIconPack"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="Nature" android:name=".nature">
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="Poly" android:name=".poly">
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="Nature + guzzo_header (random)" android:name=".naturerandom">
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+		<activity android:label="Guzzo Header" android:name=".guzzo_header">
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+		<activity android:label="Omni Tratapan" android:name=".omni_tratapan">
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+		<activity android:label="Dirty Unicorn" android:name=".du">
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+		<activity android:label="Screwid" android:name=".jerit">
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+		<activity android:label="Kota" android:name=".kuto">
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+		<activity android:label="Validus" android:name=".validus">
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+		<activity android:label="Got Kingdom" android:name=".got">
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

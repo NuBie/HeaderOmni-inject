@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<daylight_headers>
+	<hour_header hour="6" image="jerit_sunrise" />
+    <hour_header hour="7" image="jerit_isuk" />
+    <hour_header hour="11" image="jerit_awan" />
+    <hour_header hour="17" image="jerit_sunset" />
+	<hour_header hour="18" image="jerit_bengi" />
+	<hour_header hour="23" image="jerit_tengah_mlm" />
+</daylight_headers>

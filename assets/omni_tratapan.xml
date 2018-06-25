@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<daylight_headers>
+    <hour_header hour="6" image="omni_syed_1" />
+    <hour_header hour="10" image="omni_syed_2" />
+    <hour_header hour="15" image="omni_syed_3" />
+	<hour_header hour="17" image="omni_syed_4" />
+	<hour_header hour="18" image="omni_syed_5" />
+	<hour_header hour="22" image="omni_syed_6" />
+</daylight_headers>
